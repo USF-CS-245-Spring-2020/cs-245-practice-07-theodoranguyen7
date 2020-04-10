@@ -1,4 +1,3 @@
-
 public interface Queue<T> {
 	
 	public T dequeue() throws Exception;
